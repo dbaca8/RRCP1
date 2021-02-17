@@ -1,4 +1,4 @@
-# Peer-graded Assignment: Course Project 1it by Feb 14, 11:59 PM PST
+# Peer-graded Assignment: Course Project 1
 1.	Instructions
 2.	     My submission
 3.	    Discussions
@@ -73,6 +73,7 @@ In addition to submitting the URL for your GitHub repository, you will need to s
 2.	Click on the “?? commits” link where ?? is the number of commits you have in the repository. For example, if you made a total of 10 commits to this repository, the link should say “10 commits”.
 3.	You will see a list of commits that you have made to this repository. The most recent commit is at the very top. If this represents the version of the files you want to submit, then just click the “copy to clipboard” button on the right hand side that should appear when you hover over the SHA-1 hash. Paste this SHA-1 hash into the course web site when you submit your assignment. If you don't want to use the most recent commit, then go down and find the commit you want and copy the SHA-1 hash.
 A valid submission will look something like (this is just an example!)
+
 https://github.com/rdpeng/RepData_PeerAssessment17c376cc54
  
 47f11537f8740af8e07d6facc3d9645
