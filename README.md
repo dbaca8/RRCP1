@@ -1,4 +1,5 @@
-# Peer-graded Assignment: Course Project 1
+## Reproducible Research
+## Peer-graded Assignment: Course Project 1
 1.	Instructions
 2.	     My submission
 3.	    Discussions
